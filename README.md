@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Gokul</h1>
+<h1 align="center">Hello 👋!, I'm Gokul.C</h1>
 <h3 align="center"><img src="https://www.svgrepo.com//show/426043/coding.svg" alt="gokul-dev" height="30" width="40" />Software Developer from Tamilnadu,India.</h3>
 
+<span align="left">
 - 🔭 I’m currently working on **Python-FastApi**
 
 - 🌱 I’m currently learning **Python,Artificial Intelligence**
@@ -10,7 +11,7 @@
 - 📫 How to reach me **gggokul865@gmail.com**
 
 - ⚡ Fun fact **Most Valuable Thing Is In This Universe is Time!!**
-
+  </sapn>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
