@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gokul</h1>
-<h3 align="center">A passionate Software Developer from Tamilnadu,India.</h3>
+<h3 align="center">
+<a href="https://github.com/gokul1414" target="blank"><img align="center" src="https://www.svgrepo.com//show/426043/coding.svg" alt="gokul-dev" height="30" width="40" /></a>
+  
+  Software Developer from Tamilnadu,India.</h3>
 
 - 🔭 I’m currently working on **Python-FastApi**
 
