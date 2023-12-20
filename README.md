@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋!, I'm Gokul.C</h1>
+<h1 align="center">Hello!👋, I'm Gokul.C</h1>
 <h3 align="center"><img src="https://www.svgrepo.com//show/426043/coding.svg" alt="gokul-dev" height="30" width="40" />Software Developer from Tamilnadu,India.</h3>
 
 <span align="left">
