@@ -9,8 +9,6 @@
   
   - 💬 Ask me about **Python,Python-FastApi,Django,DBMS**
   
-  - 📫 How to reach me **gggokul865@gmail.com**
-  
   - ⚡ Fun fact **Most Valuable Thing Is In This Universe is Time!!**
     
 </sapn>
