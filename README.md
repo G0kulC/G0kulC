@@ -1,6 +1,6 @@
 # Hi, I'm Gokul 👋 🧑‍💻
 
-<img src="[https://github.com/G0kulC/G0kulC/blob/main/G.png](https://github.com/G0kulC/G0kulC/blob/main/G.png)" alt="banner that says Gokul- software developer">
+<img src="https://github.com/G0kulC/G0kulC/blob/main/G.png" alt="banner that says Gokul- software developer">
 I'm a **Dynamic Software Developer** with a deep passion for crafting efficient, high-performance solutions. My expertise lies in developing **scalable microservices**, **high-performance APIs**, and **real-time image processing** applications using **Python**, **FastAPI**, and **PostgreSQL**. I’m driven by the challenge of turning complex ideas into reliable, optimized software that aligns with business needs.
 
 ### 🛠 What I Do:
